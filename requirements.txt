@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+langchain[hub]
+python-dotenv
+python-docx
+faiss-cpu
+huggingface-hub
+torch 
+torchvision
+torchaudio
+sentence-transformers
